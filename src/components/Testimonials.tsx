@@ -4,21 +4,21 @@ import { ChevronLeft, ChevronRight, Quote } from 'lucide-react';
 const testimonials = [
   {
     id: 1,
-    name: 'Sarah Johnson',
+    name: 'Jenna Brooke',
     role: 'Homeowner',
     quote: 'Brooke Bros Construction transformed our basement into an amazing entertainment space. Their attention to detail and quality craftsmanship exceeded our expectations. Highly recommended!',
     image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg'
   },
   {
     id: 2,
-    name: 'Michael Peterson',
+    name: 'Bryce Mortimer',
     role: 'Business Owner',
     quote: 'The team at Brooke Bros did an outstanding job creating a feature wall for our office. They were professional, on time, and the finished product looks incredible. Will definitely work with them again.',
     image: 'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg'
   },
   {
     id: 3,
-    name: 'Lisa Martinez',
+    name: 'Leisha Mortimer',
     role: 'Homeowner',
     quote: 'After my mother had mobility issues, Brooke Bros remodeled her bathroom to make it fully accessible. They were compassionate, understanding of our needs, and delivered a beautiful, functional space.',
     image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg'

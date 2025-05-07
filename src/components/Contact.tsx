@@ -175,7 +175,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-gray-400 mb-1">Phone</p>
-                    <p className="text-white text-lg">(555) 123-4567</p>
+                    <p className="text-white text-lg">(385) 332-2749</p>
                   </div>
                 </div>
                 
@@ -185,7 +185,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-gray-400 mb-1">Email</p>
-                    <p className="text-white text-lg">info@brookebros.com</p>
+                    <p className="text-white text-lg">gavin@brookebrosconstruction.com</p>
                   </div>
                 </div>
                 
@@ -195,7 +195,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-gray-400 mb-1">Location</p>
-                    <p className="text-white text-lg">123 Construction Ave, Suite 101<br />Anytown, USA 12345</p>
+                    <p className="text-white text-lg">1070 E 1960 S<br />Springville, UT 84663</p>
                   </div>
                 </div>
               </div>
