@@ -18,7 +18,7 @@ const testimonials = [
   },
   {
     id: 3,
-    name: 'Leisha Mortimer',
+    name: 'Leisha Laidlaw',
     role: 'Homeowner',
     quote: 'After my mother had mobility issues, Brooke Bros remodeled her bathroom to make it fully accessible. They were compassionate, understanding of our needs, and delivered a beautiful, functional space.',
     image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg'

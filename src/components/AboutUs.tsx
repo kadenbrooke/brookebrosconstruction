@@ -4,7 +4,7 @@ import { CheckCircle } from 'lucide-react';
 const AboutUs: React.FC = () => {
   const qualities = [
     "Licensed and insured professionals",
-    "Over 15 years of construction experience",
+    "Over 20 years of construction experience",
     "Quality craftsmanship guaranteed",
     "On-time and on-budget completion",
     "Clean and respectful work environments",
@@ -20,7 +20,7 @@ const AboutUs: React.FC = () => {
             <div className="w-24 h-1 bg-amber-500 mb-6"></div>
             
             <p className="text-gray-300 mb-6">
-              Founded with a passion for quality craftsmanship, Brooke Bros Construction has been transforming homes and commercial spaces with exceptional construction services for over 15 years. Our team of skilled professionals takes pride in delivering projects that exceed expectations.
+              Founded with a passion for quality craftsmanship, Brooke Bros Construction has been transforming homes and commercial spaces with exceptional construction services for over 20 years. Our team of skilled professionals takes pride in delivering projects that exceed expectations.
             </p>
             
             <p className="text-gray-300 mb-8">
@@ -55,7 +55,7 @@ const AboutUs: React.FC = () => {
             </div>
             
             <div className="absolute -bottom-6 -right-6 bg-amber-500 text-gray-900 rounded-lg p-6 shadow-xl hidden md:block">
-              <p className="text-2xl font-bold">15+</p>
+              <p className="text-2xl font-bold">20+</p>
               <p className="text-sm uppercase font-semibold">Years of Excellence</p>
             </div>
           </div>
